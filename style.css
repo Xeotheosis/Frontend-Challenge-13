@@ -110,7 +110,7 @@ button:hover{
     align-items:center;
     gap:1rem;
     position:absolute;
-    bottom:5%;
+    bottom:2%;
 }
 
 @media (min-width:950px){
