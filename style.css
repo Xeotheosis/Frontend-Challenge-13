@@ -115,6 +115,10 @@ button:hover{
 
 @media (min-width:950px){
 
+    body{
+        scale:0.9;
+    }
+
     main{
 width:100%;
     }
@@ -153,6 +157,6 @@ button{
     left:5%;
 }
     .container-social-icons{
-    bottom:2%;
+    bottom:0%;
 }
 }
